@@ -89,11 +89,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=tokyonight" />
 </p>
 
-![Python](https://img.shields.io/badge/python-3.10-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/streamlit-app-red?logo=streamlit)
-![NLP](https://img.shields.io/badge/nlp-text--processing-orange)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-ml-yellow?logo=scikit-learn)
-![Git](https://img.shields.io/badge/git-version%20control-red?logo=git)
 
 
 
