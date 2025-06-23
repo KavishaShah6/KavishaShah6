@@ -1,4 +1,6 @@
-<h1 align="center">Hi👋, I'm Kavisha Shah</h1>
+<h1 align="center">Hi👋, I'm Kavisha Shah</h1><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,2980b9&height=200&section=header&text=Hello!%20I'm%20Kavisha%20Shah&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header" />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=450&height=60&lines=;Computer+Science+Student;an+AI%2FML+Enthusiast;a+Researcher;a+Coder" alt="Typing SVG" />
 </h1>
