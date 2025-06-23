@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,2980b9&height=200&section=header&text=Hello!%20I'm%20Kavisha%20Shah&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,2980b9&height=200&section=header&text=Hello!%20I'm%20Kavisha%20Shah&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=&descAlign=50&descSize=20&background=1C1C1C" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=A+Computer+Science+Student;An+AI%2FML+Enthusiast;A+Researcher;A+Coder" alt="Typing SVG" />
