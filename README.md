@@ -76,6 +76,19 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KavishaShah6&label=Profile%20views&color=0e75b6&style=flat" alt="KavishaShah6" />
+  <img src="https://img.shields.io/github/followers/KavishaShah6?label=Follow&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavishaShah6&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=tokyonight" />
+</p>
+
 
 
 
