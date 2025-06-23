@@ -16,13 +16,61 @@
 
 ---
 
-### 🛠️ Stack I Work With
+### 🛠️ Stack I Work With  <!-- pyramid version -->
 
+<div align="center">
+
+<!-- ───────────────────── 1 ───────────────────── -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,graphql,bootstrap,tailwind,numpy,pandas,matplotlib,scikit-learn,tensorflow,pytorch,kaggle,jwt,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
+<!-- ───────────────────── 2 ───────────────────── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+<!-- ───────────────────── 3 ───────────────────── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=nvidia" />
+</p>
+
+<!-- ───────────────────── 4 ───────────────────── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+<!-- ───────────────────── 5 ───────────────────── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://skillicons.dev/icons?i=kaggle" />
+</p>
+
+<!-- ───────────────────── 6 ───────────────────── -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=jwt" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+</p>
+
+</div>
+
 ---
+
 
 ### 📊 GitHub Stats
 
