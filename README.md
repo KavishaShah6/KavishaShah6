@@ -77,12 +77,5 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavishaShah&theme=algolia" alt="Kavisha Shah GitHub Streak" />
-</p>
-
----
 
 
