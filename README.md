@@ -1,6 +1,6 @@
 <!-- 👋 HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!%20I'm%20Kavisha%20Shah&fontAlign=50&fontSize=40&fontColor=f7f5f5&color=5433FF,20BDFF,A5FECB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hello!%20I'm%20Kavisha%20Shah&fontAlign=50&fontSize=40&fontColor=f7f5f5&"color=5433FF,20BDFF,A5FECB"/>
 </p>
 
 
