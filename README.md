@@ -85,16 +85,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavishaShah6&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=tokyonight" />
 </p>
 
 
-
-# 📊 GitHub Stats:
+<p align="center"># 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KavishaShah6&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
