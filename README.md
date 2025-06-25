@@ -18,7 +18,7 @@
 - 💡 Building dashboards, intelligent apps, and 3D web interfaces
 - 🤝 Open to collaborations on innovative projects
 - 🎓 CS Grad from PDEU, heading to ASU for MS in CS
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kavisha-shah/) | kavishashah@example.com
+- 📫 Reach me at: [LinkedIn]([https://www.linkedin.com/in/kavisha-shah/](https://www.linkedin.com/in/kavisha-shah-97572a245/)) | 
 
 ---
 
