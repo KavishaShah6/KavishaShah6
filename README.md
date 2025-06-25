@@ -26,7 +26,8 @@
 
 - 🌟 Pharmaceutical Agentic AI Dashboard (Span Inspection Systems)
 - 🗣️ Text Sentiment Analyzer for Movies/News
-- 📍 Geo-Mapped Storytelling Platform – **PicMap**
+- 📍 Aerial Path Finding Simulation
+- 🍰 Food delivery website
 
 ---
 
