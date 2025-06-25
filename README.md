@@ -18,7 +18,7 @@
 <p align="center">
   <img align="right" width="200px" height="200px" alt="coding" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
-
+## 👋 Hi there! I'm Kavisha Shah<br><br>🚀 A passionate Computer Engineer with a keen interest in AI, Machine Learning, and full-stack development. I'm driven by curiosity, creativity, and a strong desire to build meaningful tech.<br><br>### 🧠 What I Do<br>- 🤖 Build ML & NLP models to solve real-world problems<br>- 💻 Create engaging web apps using React, Node.js & Three.js<br>- 📊 Design intelligent dashboards with data visualization<br>- 🧪 Explore AI research and agentic systems<br><br>### 🛠️ Tech Stack<br>`Python` | `React.js` | `Node.js` | `Three.js` | `TensorFlow` | `PyTorch` | `MongoDB` | `Streamlit` | `Next.js` | `SQL` | `Git`<br><br>### 🏆 Achievements<br>- 🌟 Developed a pharmaceutical Agentic AI Dashboard for Span Inspection Systems<br>- 🗣️ Built a Text Sentiment Analyzer for movie/news reviews<br>- 📍 Created a geo-mapped photo storytelling platform, **PicMap**<br><br>
 - 🎓 I’m an undergraduate Computer Science and Engineering student at PDEU, Gandhinagar.  
 - 🌱 Currently exploring AI/ML and Web Development  
 - 🧠 Learning about:
@@ -94,5 +94,17 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KavishaShah6&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KavishaShah6&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KavishaShah6&icon=0&color=1)](https://visitcount.itsvg.in)
 
