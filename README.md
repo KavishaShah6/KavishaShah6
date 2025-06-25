@@ -1,10 +1,7 @@
 <!-- 👋 HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!%20I'm%20Kavisha%20Shah&fontAlign=50&fontSize=40&fontColor=f7f5f5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5433FF,20BDFF,A5FECB&text=Hello!%20I'm%20Kavisha%20Shah&fontAlign=50&fontSize=40&fontColor=f7f5f5" />
 </p>
-
-
-
 
 <!-- 🖋️ Typing Animation -->
 <p align="center">
@@ -13,23 +10,27 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-<p align="center">
-  <img align="right" width="200px" height="200px" alt="coding" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
-## 👋 Hi there! I'm Kavisha Shah<br><br>🚀 A passionate Computer Engineer with a keen interest in AI, Machine Learning, and full-stack development. I'm driven by curiosity, creativity, and a strong desire to build meaningful tech.<br><br>### 🧠 What I Do<br>- 🤖 Build ML & NLP models to solve real-world problems<br>- 💻 Create engaging web apps using React, Node.js & Three.js<br>- 📊 Design intelligent dashboards with data visualization<br>- 🧪 Explore AI research and agentic systems<br><br>### 🛠️ Tech Stack<br>`Python` | `React.js` | `Node.js` | `Three.js` | `TensorFlow` | `PyTorch` | `MongoDB` | `Streamlit` | `Next.js` | `SQL` | `Git`<br><br>### 🏆 Achievements<br>- 🌟 Developed a pharmaceutical Agentic AI Dashboard for Span Inspection Systems<br>- 🗣️ Built a Text Sentiment Analyzer for movie/news reviews<br>- 📍 Created a geo-mapped photo storytelling platform, **PicMap**<br><br>
-- 🎓 I’m an undergraduate Computer Science and Engineering student at PDEU, Gandhinagar.  
-- 🌱 Currently exploring AI/ML and Web Development  
-- 🧠 Learning about:
-  - Neural Networks  
-  - NLP  
-- 🤝 I’m looking to collaborate on open source projects  
-- 💬 Ask me anything — I’m happy to help 😉  
-  
+🚀 A passionate Computer Engineer exploring AI, Machine Learning, and creative full-stack development.
+
+- 🌱 Currently exploring Neural Networks, NLP, and Agentic AI Systems
+- 💡 Building dashboards, intelligent apps, and 3D web interfaces
+- 🤝 Open to collaborations on innovative projects
+- 🎓 CS Grad from PDEU, heading to ASU for MS in CS
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kavisha-shah/) | kavishashah@example.com
+
 ---
 
-### 🧱 Tech Stack Pyramid
+## 🧠 Projects & Highlights
+
+- 🌟 Pharmaceutical Agentic AI Dashboard (Span Inspection Systems)
+- 🗣️ Text Sentiment Analyzer for Movies/News
+- 📍 Geo-Mapped Storytelling Platform – **PicMap**
+
+---
+
+## 🧱 Tech Stack Pyramid
 
 <!-- Row 1 -->
 <p align="center">
@@ -79,27 +80,33 @@
 </p>
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=github_dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KavishaShah6&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KavishaShah6&label=Profile%20views&color=0e75b6&style=flat" alt="KavishaShah6" />
   <img src="https://img.shields.io/github/followers/KavishaShah6?label=Follow&style=social" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center"># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KavishaShah6&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KavishaShah6&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=KavishaShah6&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=KavishaShah6&icon=0&color=1)](https://visitcount.itsvg.in)
