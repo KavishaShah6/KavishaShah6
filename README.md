@@ -94,7 +94,6 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -103,15 +102,21 @@
 
 ---
 
+## 🧮 Profile Metrics
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KavishaShah6&label=Profile%20views&color=0e75b6&style=flat" alt="KavishaShah6" />
   <img src="https://img.shields.io/github/followers/KavishaShah6?label=Follow&style=social" alt="followers" />
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://github.com/KavishaShah6/KavishaShah6/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=KavishaShah6&icon=0&color=1)](https://visitcount.itsvg.in)
