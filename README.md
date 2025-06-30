@@ -82,16 +82,21 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaShah6&layout=compact&theme=github_dark&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KavishaShah6&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnay12&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200px"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KavishaShah6&theme=github-dark-blue&hide_border=true" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vnay12&theme=radical&hide_border=false" height="200px"/>
+</div>
+
+
+![snake gif](https://github.com/Vnay12/Vnay12/blob/output/github-snake-dark.svg)
 
 ---
 ## 🏆 GitHub Trophies
@@ -111,11 +116,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/KavishaShah6/KavishaShah6/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-</p>
 
 
 
