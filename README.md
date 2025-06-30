@@ -109,5 +109,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/KavishaShah6/KavishaShah6/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=KavishaShah6&icon=0&color=1)](https://visitcount.itsvg.in)
