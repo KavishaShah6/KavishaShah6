@@ -92,11 +92,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vnay12&theme=radical&hide_border=false" height="200px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KavishaShah6&theme=radical&hide_border=false" height="200px"/>
 </div>
 
 
-![snake gif](https://github.com/Vnay12/Vnay12/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/KavishaShah6/KavishaShah6/blob/output/github-snake-dark.svg)
 
 ---
 ## 🏆 GitHub Trophies
