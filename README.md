@@ -107,7 +107,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah62&show_icons=true&theme=radical&count_private=true" />
 </p>
 &nbsp;
 
