@@ -99,7 +99,7 @@
 ![snake gif](https://github.com/KavishaShah6/KavishaShah6/blob/output/github-snake-dark.svg)
 
 ---
----
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
