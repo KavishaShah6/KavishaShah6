@@ -105,9 +105,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
-</p>
+
 
 ## 🧮 Profile Metrics
 
@@ -117,7 +115,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
+</p>
 
 
 
