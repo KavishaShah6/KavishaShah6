@@ -106,6 +106,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
+&nbsp;
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
+</p>
+&nbsp;
+
+&nbsp;
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+
+&nbsp;
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
+</p>
+&nbsp;
 
 ## 🧮 Profile Metrics
 
