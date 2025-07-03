@@ -102,11 +102,16 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KavishaShah6&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
+</p>
 ## 🧮 Profile Metrics
 
 <p align="center">
@@ -115,9 +120,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&show_icons=true&theme=radical&count_private=true" />
-</p>
+
 
 
 
