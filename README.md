@@ -94,10 +94,6 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KavishaShah6&theme=radical&hide_border=false" height="200px"/>
 </div>
-
-
-![snake gif](https://github.com/KavishaShah6/KavishaShah6/blob/output/github-snake-dark.svg)
-
 ---
 
 ## 🏆 GitHub Trophies
