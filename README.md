@@ -115,6 +115,10 @@
   <img src="https://komarev.com/ghpvc/?username=KavishaShah6&label=Profile%20views&color=0e75b6&style=flat" alt="KavishaShah6" />
   <img src="https://img.shields.io/github/followers/KavishaShah6?label=Follow&style=social" alt="followers" />
 </p>
+## 📅 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavishaShah6&theme=radical" />
+</p>
 
 ---
 
