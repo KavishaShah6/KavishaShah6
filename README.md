@@ -33,105 +33,103 @@ My experience spans computer vision, deep learning, signal processing, and retri
 
 ---
 
-## 💼 Experience
-
-### AI/ML Intern · Inexture Solutions
-**January 2026–March 2026 | Ahmedabad, India**
-
-- Designed a precision agriculture pipeline for pomegranate orchards using **YOLOv11 → MobileNetV3 → EfficientNet → LightGBM**, covering fruit detection, phenology tracking, disease analysis, and yield forecasting.
-- Trained and evaluated YOLOv11n/s on **5,857 orchard images**, achieving **96.61% mAP@0.5**.
-- Built a PostgreSQL architecture supporting **16,000+ trees**, with JSONB inference logs, weekly time-series aggregation, anomaly tracking, and model versioning.
-
-### AI/ML Engineer · Quantumbot
-**July 2025–October 2025**
-
-- Developed a signal processing pipeline for oil well sonar analysis, including noise reduction, frequency band optimization, and peak detection.
-- Implemented dynamic selection across **125+ frequency bands**, improving signal clarity by **40%** and reducing processing time from **30 seconds to under 2 seconds per file**.
-- Used Hilbert transforms and adaptive thresholds for firing-echo detection, with an interactive Streamlit dashboard.
-
-### AI/ML Intern · Span Inspection Systems Pvt. Ltd.
-**January 2025–April 2025 | Gandhinagar, India**
-
-- Developed computer vision models for pharmaceutical quality inspection.
-- Implemented image processing to detect broken tablets, missing pills, and packaging defects.
-- Optimized ML pipelines using production datasets for real-time defect detection.
-
-### AI/ML Intern · Inexture Solutions
-**July 2024–December 2024 | Ahmedabad, India**
-
-- Built a financial advisory chatbot using **LangChain, ChromaDB, MiniLM-L6-v2 embeddings, and MistralSaba24b through the Groq API**.
-- Developed a Streamlit interface for document uploads and contextual queries.
-- Implemented RAG workflows covering preprocessing, embedding generation, retrieval, and deployment.
-
----
-
-## 🚀 Featured Projects
-
-### 🦴 Bone Fracture Classification
-
-- Built a deep learning model to classify X-ray images as fractured or non-fractured.
-- Applied CNNs and optimization techniques for medical image analysis.
-- **Reported project accuracy:** 99.57%.
-- **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Seaborn.
-
-### ✈️ Shortest Aerial Path-Finding Simulation
-
-- Developed an interactive web application to compute and visualize optimal flight paths.
-- Integrated backend logic, a web interface, and database connectivity.
-- **Technologies:** Python, Flask, HTML, CSS, Bootstrap, MongoDB.
-
-### 🔬 Blood Cell Classification
-
-- Developed an image classification model for blood cell categories.
-- Applied preprocessing, data augmentation, and model evaluation.
-- **Reported project accuracy:** 99.6%.
-- **Technologies:** Python, TensorFlow, scikit-learn, OpenCV, NumPy, Pandas, Matplotlib.
-
-> Accuracy figures above are project results reported in my resume; the orthopedic research validation result below belongs to a separate experiment.
-
----
-
-## 📚 Research & Publications
-
-### Leveraging Transfer Learning in Computer Vision for AI-Powered Orthopedic Assistance: A Sustainable Approach for Healthcare 4.0
-
-- **Status:** Accepted for publication, as listed in my resume.
-- **Journal:** International Journal of Internet Manufacturing and Services, Inderscience Publishers.
-- Explored bone fracture classification using transfer learning, BGR preprocessing, the Adam optimizer, and dropout regularization.
-- Achieved **96.62% validation accuracy with VGG16**.
-
-### Advancements in Elliptic Curve Cryptography: A Review of Theory and Applications
-
-- **Status:** Published in IEEE Xplore, as listed in my resume.
-- Reviewed elliptic curve cryptography, its applications, strengths, limitations, and use cases.
-
-### A Pioneering and Reliable Technique for Optimizing Aerial Route Planning
-
-- **Status:** Accepted for publication in Inderscience Journals, as listed in my resume.
-- Explored optimal paths in fully connected graphs under distance constraints, balancing efficiency, connectivity, and cost.
-
----
-
 ## 🧱 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=48&amp;lines=From+data+to+intelligent+applications;Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+RAG;Explore+my+toolkit+below" alt="From data to intelligent applications — Computer Vision, Deep Learning, and RAG" />
 </p>
 
-| Category | Technologies |
-| --- | --- |
-| Programming & Web Languages | Python, C, Java, JavaScript, SQL, Scala, HTML, CSS |
-| Machine Learning & Computer Vision | TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, YOLOv11, MobileNetV3, EfficientNet, LightGBM |
-| Data Analysis & Visualization | NumPy, Pandas, Matplotlib, Seaborn, Streamlit |
-| Generative AI & Retrieval | LangChain, ChromaDB, MiniLM-L6-v2, Groq API, RAG |
-| Backend Development | FastAPI, Flask, Django, Node.js, Express.js, Jinja |
-| Frontend Development | React.js, Bootstrap |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| Tools & Foundations | Git, AWS, Data Structures and Algorithms, Object-Oriented Programming |
+<p align="center"><sub>Expand a category to explore. Select a badge to visit its documentation.</sub></p>
+
+<details open>
+<summary><strong>🧠 Machine Learning & Computer Vision</strong></summary>
+
+<p align="center">
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" /></a>
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="Keras" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" /></a>
+</p>
+
+<p align="center"><sub>YOLOv11 · MobileNetV3 · EfficientNet · LightGBM</sub></p>
+
+</details>
+
+<details>
+<summary><strong>✨ Generative AI & Retrieval</strong></summary>
+
+<p align="center">
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" /></a>
+  <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-6D28D9?style=for-the-badge" alt="ChromaDB" /></a>
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" /></a>
+</p>
+
+<p align="center"><sub>Retrieval-Augmented Generation (RAG) · MiniLM-L6-v2 embeddings</sub></p>
+
+</details>
+
+<details>
+<summary><strong>📈 Data Analysis & Visualization</strong></summary>
+
+<p align="center">
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" /></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>💻 Programming & Web Languages</strong></summary>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" /></a>
+  <a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-D4B830?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" /></a>
+  <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&amp;logo=scala&amp;logoColor=white" alt="Scala" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" /></a>
+</p>
+
+<p align="center"><sub>SQL</sub></p>
+
+</details>
+
+<details>
+<summary><strong>🌐 Full-Stack Development</strong></summary>
+
+<p align="center">
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-353535?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-353535?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" /></a>
+</p>
+
+<p align="center"><sub>Jinja</sub></p>
+
+</details>
+
+<details>
+<summary><strong>🗄️ Databases, Cloud & Tools</strong></summary>
+
+<p align="center">
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" /></a>
+</p>
+
+<p align="center"><sub>Data Structures and Algorithms · Object-Oriented Programming</sub></p>
+
+</details>
 
 ---
 
@@ -145,10 +143,6 @@ My experience spans computer vision, deep learning, signal processing, and retri
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavishaShah6&amp;theme=radical" alt="GitHub profile activity summary" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavishaShah6&amp;theme=react-dark&amp;color=bb00ff&amp;line=bb00ff&amp;point=ffffff&amp;hide_border=true" alt="GitHub contribution activity graph" width="95%" />
 </p>
 
 ---
